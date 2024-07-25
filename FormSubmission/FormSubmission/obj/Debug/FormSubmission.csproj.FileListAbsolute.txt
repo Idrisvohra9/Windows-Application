@@ -1,0 +1,10 @@
+C:\Users\Idris\source\repos\FormSubmission\FormSubmission\bin\Debug\FormSubmission.exe.config
+C:\Users\Idris\source\repos\FormSubmission\FormSubmission\bin\Debug\FormSubmission.exe
+C:\Users\Idris\source\repos\FormSubmission\FormSubmission\bin\Debug\FormSubmission.pdb
+C:\Users\Idris\source\repos\FormSubmission\FormSubmission\obj\Debug\FormSubmission.csproj.AssemblyReference.cache
+C:\Users\Idris\source\repos\FormSubmission\FormSubmission\obj\Debug\FormSubmission.Form1.resources
+C:\Users\Idris\source\repos\FormSubmission\FormSubmission\obj\Debug\FormSubmission.Properties.Resources.resources
+C:\Users\Idris\source\repos\FormSubmission\FormSubmission\obj\Debug\FormSubmission.csproj.GenerateResource.cache
+C:\Users\Idris\source\repos\FormSubmission\FormSubmission\obj\Debug\FormSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Idris\source\repos\FormSubmission\FormSubmission\obj\Debug\FormSubmission.exe
+C:\Users\Idris\source\repos\FormSubmission\FormSubmission\obj\Debug\FormSubmission.pdb

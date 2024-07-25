@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uJbKcPOOYx4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Idris\\source\\repos\\FirstTry\\FirstTry\\FirstTry (Package)\\FirstTry (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Idris\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
+    "C:\\Users\\Idris\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240627000\\microsoft.windowsappsdk.1.5.240627000.nupkg.sha512"
+  ],
+  "logs": []
+}

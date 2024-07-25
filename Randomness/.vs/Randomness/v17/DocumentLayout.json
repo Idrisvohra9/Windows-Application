@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Idris\\source\\repos\\Randomness\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19A282A5-2A74-4625-86F8-EC099756D932}|Randomness\\Randomness.csproj|c:\\users\\idris\\source\\repos\\randomness\\randomness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A282A5-2A74-4625-86F8-EC099756D932}|Randomness\\Randomness.csproj|solutionrelative:randomness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Idris\\source\\repos\\Randomness\\Randomness\\Program.cs",
+              "RelativeDocumentMoniker": "Randomness\\Program.cs",
+              "ToolTip": "C:\\Users\\Idris\\source\\repos\\Randomness\\Randomness\\Program.cs",
+              "RelativeToolTip": "Randomness\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:52:46.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

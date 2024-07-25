@@ -1,0 +1,10 @@
+C:\Users\Idris\source\repos\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe.config
+C:\Users\Idris\source\repos\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe
+C:\Users\Idris\source\repos\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.pdb
+C:\Users\Idris\source\repos\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.AssemblyReference.cache
+C:\Users\Idris\source\repos\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.Form1.resources
+C:\Users\Idris\source\repos\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.Properties.Resources.resources
+C:\Users\Idris\source\repos\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.GenerateResource.cache
+C:\Users\Idris\source\repos\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Users\Idris\source\repos\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.exe
+C:\Users\Idris\source\repos\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.pdb

@@ -1,0 +1,14 @@
+C:\Users\Idris\source\repos\Randomness\Randomness\bin\Debug\net8.0\Randomness.exe
+C:\Users\Idris\source\repos\Randomness\Randomness\bin\Debug\net8.0\Randomness.deps.json
+C:\Users\Idris\source\repos\Randomness\Randomness\bin\Debug\net8.0\Randomness.runtimeconfig.json
+C:\Users\Idris\source\repos\Randomness\Randomness\bin\Debug\net8.0\Randomness.dll
+C:\Users\Idris\source\repos\Randomness\Randomness\bin\Debug\net8.0\Randomness.pdb
+C:\Users\Idris\source\repos\Randomness\Randomness\obj\Debug\net8.0\Randomness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idris\source\repos\Randomness\Randomness\obj\Debug\net8.0\Randomness.AssemblyInfoInputs.cache
+C:\Users\Idris\source\repos\Randomness\Randomness\obj\Debug\net8.0\Randomness.AssemblyInfo.cs
+C:\Users\Idris\source\repos\Randomness\Randomness\obj\Debug\net8.0\Randomness.csproj.CoreCompileInputs.cache
+C:\Users\Idris\source\repos\Randomness\Randomness\obj\Debug\net8.0\Randomness.dll
+C:\Users\Idris\source\repos\Randomness\Randomness\obj\Debug\net8.0\refint\Randomness.dll
+C:\Users\Idris\source\repos\Randomness\Randomness\obj\Debug\net8.0\Randomness.pdb
+C:\Users\Idris\source\repos\Randomness\Randomness\obj\Debug\net8.0\Randomness.genruntimeconfig.cache
+C:\Users\Idris\source\repos\Randomness\Randomness\obj\Debug\net8.0\ref\Randomness.dll

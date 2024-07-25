@@ -1,0 +1,14 @@
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.exe
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.deps.json
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.runtimeconfig.json
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.dll
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.pdb
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.dll
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\net8.0\refint\ClassesAndObjects.dll
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.pdb
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.genruntimeconfig.cache
+C:\Users\Idris\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\net8.0\ref\ClassesAndObjects.dll

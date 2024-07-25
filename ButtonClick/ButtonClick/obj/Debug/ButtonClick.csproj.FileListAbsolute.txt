@@ -1,0 +1,10 @@
+C:\Users\Idris\source\repos\ButtonClick\ButtonClick\bin\Debug\ButtonClick.exe.config
+C:\Users\Idris\source\repos\ButtonClick\ButtonClick\bin\Debug\ButtonClick.exe
+C:\Users\Idris\source\repos\ButtonClick\ButtonClick\bin\Debug\ButtonClick.pdb
+C:\Users\Idris\source\repos\ButtonClick\ButtonClick\obj\Debug\ButtonClick.csproj.AssemblyReference.cache
+C:\Users\Idris\source\repos\ButtonClick\ButtonClick\obj\Debug\ButtonClick.Form1.resources
+C:\Users\Idris\source\repos\ButtonClick\ButtonClick\obj\Debug\ButtonClick.Properties.Resources.resources
+C:\Users\Idris\source\repos\ButtonClick\ButtonClick\obj\Debug\ButtonClick.csproj.GenerateResource.cache
+C:\Users\Idris\source\repos\ButtonClick\ButtonClick\obj\Debug\ButtonClick.csproj.CoreCompileInputs.cache
+C:\Users\Idris\source\repos\ButtonClick\ButtonClick\obj\Debug\ButtonClick.exe
+C:\Users\Idris\source\repos\ButtonClick\ButtonClick\obj\Debug\ButtonClick.pdb

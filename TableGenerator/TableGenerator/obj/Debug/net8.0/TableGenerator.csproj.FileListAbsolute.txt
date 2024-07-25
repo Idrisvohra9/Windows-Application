@@ -1,0 +1,14 @@
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\bin\Debug\net8.0\TableGenerator.exe
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\bin\Debug\net8.0\TableGenerator.deps.json
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\bin\Debug\net8.0\TableGenerator.runtimeconfig.json
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\bin\Debug\net8.0\TableGenerator.dll
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\bin\Debug\net8.0\TableGenerator.pdb
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\obj\Debug\net8.0\TableGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\obj\Debug\net8.0\TableGenerator.AssemblyInfoInputs.cache
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\obj\Debug\net8.0\TableGenerator.AssemblyInfo.cs
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\obj\Debug\net8.0\TableGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\obj\Debug\net8.0\TableGenerator.dll
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\obj\Debug\net8.0\refint\TableGenerator.dll
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\obj\Debug\net8.0\TableGenerator.pdb
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\obj\Debug\net8.0\TableGenerator.genruntimeconfig.cache
+C:\Users\Idris\source\repos\TableGenerator\TableGenerator\obj\Debug\net8.0\ref\TableGenerator.dll

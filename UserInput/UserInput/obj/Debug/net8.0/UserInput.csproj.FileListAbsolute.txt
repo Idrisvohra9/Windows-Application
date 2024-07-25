@@ -1,0 +1,14 @@
+C:\Users\Idris\source\repos\UserInput\UserInput\bin\Debug\net8.0\UserInput.exe
+C:\Users\Idris\source\repos\UserInput\UserInput\bin\Debug\net8.0\UserInput.deps.json
+C:\Users\Idris\source\repos\UserInput\UserInput\bin\Debug\net8.0\UserInput.runtimeconfig.json
+C:\Users\Idris\source\repos\UserInput\UserInput\bin\Debug\net8.0\UserInput.dll
+C:\Users\Idris\source\repos\UserInput\UserInput\bin\Debug\net8.0\UserInput.pdb
+C:\Users\Idris\source\repos\UserInput\UserInput\obj\Debug\net8.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idris\source\repos\UserInput\UserInput\obj\Debug\net8.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\Idris\source\repos\UserInput\UserInput\obj\Debug\net8.0\UserInput.AssemblyInfo.cs
+C:\Users\Idris\source\repos\UserInput\UserInput\obj\Debug\net8.0\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\Idris\source\repos\UserInput\UserInput\obj\Debug\net8.0\UserInput.dll
+C:\Users\Idris\source\repos\UserInput\UserInput\obj\Debug\net8.0\refint\UserInput.dll
+C:\Users\Idris\source\repos\UserInput\UserInput\obj\Debug\net8.0\UserInput.pdb
+C:\Users\Idris\source\repos\UserInput\UserInput\obj\Debug\net8.0\UserInput.genruntimeconfig.cache
+C:\Users\Idris\source\repos\UserInput\UserInput\obj\Debug\net8.0\ref\UserInput.dll
