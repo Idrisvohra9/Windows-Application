@@ -1,0 +1,10 @@
+C:\Users\Idris\source\repos\form\form\bin\Debug\form.exe.config
+C:\Users\Idris\source\repos\form\form\bin\Debug\form.exe
+C:\Users\Idris\source\repos\form\form\bin\Debug\form.pdb
+C:\Users\Idris\source\repos\form\form\obj\Debug\form.csproj.AssemblyReference.cache
+C:\Users\Idris\source\repos\form\form\obj\Debug\form.Form1.resources
+C:\Users\Idris\source\repos\form\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\Idris\source\repos\form\form\obj\Debug\form.csproj.GenerateResource.cache
+C:\Users\Idris\source\repos\form\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+C:\Users\Idris\source\repos\form\form\obj\Debug\form.exe
+C:\Users\Idris\source\repos\form\form\obj\Debug\form.pdb

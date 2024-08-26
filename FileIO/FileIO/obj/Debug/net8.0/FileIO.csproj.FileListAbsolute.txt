@@ -1,0 +1,14 @@
+C:\Users\Idris\source\repos\FileIO\FileIO\bin\Debug\net8.0\FileIO.exe
+C:\Users\Idris\source\repos\FileIO\FileIO\bin\Debug\net8.0\FileIO.deps.json
+C:\Users\Idris\source\repos\FileIO\FileIO\bin\Debug\net8.0\FileIO.runtimeconfig.json
+C:\Users\Idris\source\repos\FileIO\FileIO\bin\Debug\net8.0\FileIO.dll
+C:\Users\Idris\source\repos\FileIO\FileIO\bin\Debug\net8.0\FileIO.pdb
+C:\Users\Idris\source\repos\FileIO\FileIO\obj\Debug\net8.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idris\source\repos\FileIO\FileIO\obj\Debug\net8.0\FileIO.AssemblyInfoInputs.cache
+C:\Users\Idris\source\repos\FileIO\FileIO\obj\Debug\net8.0\FileIO.AssemblyInfo.cs
+C:\Users\Idris\source\repos\FileIO\FileIO\obj\Debug\net8.0\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Idris\source\repos\FileIO\FileIO\obj\Debug\net8.0\FileIO.dll
+C:\Users\Idris\source\repos\FileIO\FileIO\obj\Debug\net8.0\refint\FileIO.dll
+C:\Users\Idris\source\repos\FileIO\FileIO\obj\Debug\net8.0\FileIO.pdb
+C:\Users\Idris\source\repos\FileIO\FileIO\obj\Debug\net8.0\FileIO.genruntimeconfig.cache
+C:\Users\Idris\source\repos\FileIO\FileIO\obj\Debug\net8.0\ref\FileIO.dll

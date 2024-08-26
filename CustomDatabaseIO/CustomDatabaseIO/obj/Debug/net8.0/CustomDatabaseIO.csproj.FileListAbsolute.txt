@@ -1,0 +1,14 @@
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\bin\Debug\net8.0\CustomDatabaseIO.exe
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\bin\Debug\net8.0\CustomDatabaseIO.deps.json
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\bin\Debug\net8.0\CustomDatabaseIO.runtimeconfig.json
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\bin\Debug\net8.0\CustomDatabaseIO.dll
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\bin\Debug\net8.0\CustomDatabaseIO.pdb
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\obj\Debug\net8.0\CustomDatabaseIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\obj\Debug\net8.0\CustomDatabaseIO.AssemblyInfoInputs.cache
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\obj\Debug\net8.0\CustomDatabaseIO.AssemblyInfo.cs
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\obj\Debug\net8.0\CustomDatabaseIO.csproj.CoreCompileInputs.cache
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\obj\Debug\net8.0\CustomDatabaseIO.dll
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\obj\Debug\net8.0\refint\CustomDatabaseIO.dll
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\obj\Debug\net8.0\CustomDatabaseIO.pdb
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\obj\Debug\net8.0\CustomDatabaseIO.genruntimeconfig.cache
+C:\Users\Idris\source\repos\CustomDatabaseIO\CustomDatabaseIO\obj\Debug\net8.0\ref\CustomDatabaseIO.dll
